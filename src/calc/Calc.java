@@ -16,7 +16,7 @@ public class Calc {
         return x+y ;
     }
     public int getSubtraction( int x, int y){
-        return x-y-1 ;
+        return x-y ;
     }
     
 }
